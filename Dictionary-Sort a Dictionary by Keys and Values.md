@@ -29,7 +29,7 @@ To write a Python program that sorts a dictionary's:
 
 ---
 
-## 🧪Program
+## Program
 ```
 d = {'b': 'banana', 'a': 'apple', 'c': 'cherry'}
 
